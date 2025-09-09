@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Plot",
+      "type": "Plot",
+      "location": "Pune",
+      "price": 250000,
+      "description": "A large plot of land available for development.",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/014/445/766/small/land-plot-for-building-house-aerial-view-land-field-with-pins-pin-location-for-housing-subdivision-residential-development-owned-sale-rent-buy-or-investment-home-or-house-expand-the-city-suburb-free-photo.JPG"
+    },
+    {
+      "id": "2",
+      "name": "Retail Store",
+      "type": "Commercial",
+      "location": "Hyderabad",
+      "price": 150000,
+      "description": "A commercial retail space in city center.",
+      "image": "https://content.jdmagicbox.com/v2/comp/hyderabad/a5/040pxx40.xx40.230706020248.a9a5/catalogue/fig-o-fit-mart-retail-store-kothapet-hyderabad-fruit-vendors-fcmdrejxzz.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Shed",
+      "type": "Industrial",
+      "location": "Bengaluru",
+      "price": 76000,
+      "description": "An industrial shed in a prime location.",
+      "image": "https://www.abcsheds.net.au/hs-fs/hubfs/Client%20Sheds/Hay%20Sheds/Nangus%20-%20NSW/abc_sheds_hay_shed_nangus_2.jpg?width=800&name=abc_sheds_hay_shed_nangus_2.jpg"
+    },
+    {
+      "id": "212a",
+      "name": "WareHouse",
+      "type": "Industrial",
+      "price": 500000,
+      "location": "Jaipur",
+      "description": "A industrial warehouse for mass production.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCzHJW2pTtkCjvYsBs-Qt51eB9fBMtnhiCw&s"
+    }
+  ]
+}
